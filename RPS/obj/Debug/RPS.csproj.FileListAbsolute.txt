@@ -1,0 +1,7 @@
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\obj\Debug\RPS.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\george_serban\Projects\DesignPatterns(Derek Banas)\RPS\RPS\obj\Debug\RPS.pdb
